@@ -4,6 +4,7 @@ GENERAL
 
 html {
   overflow-x: hidden;
+
 }
 
 body {
@@ -164,7 +165,6 @@ PAGE: ABOUT
   display: block;
   max-width: 150px;
   margin: 0 auto 30px;
-  border-radius: 100%;
   float: left;
 }
 
